@@ -1,0 +1,11 @@
+[project]
+name = "FastAPIBasedFullStack"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = "==3.12"
+dependencies = [
+    "fastapi==0.115.3",
+    "python-multipart==0.0.12",
+    "uvicorn==0.32.0",
+]
